@@ -10,7 +10,20 @@ html{
 }
 
 .home-ads{
+    background-image: url(../img/xhero_2.jpg.pagespeed.ic._xYTRIlPTB.webp);
+    background-attachment: fixed;
+    background-position: top;
+    background-position-x:center;
+    background-position-y:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: unset;
+    position: relative;
     height: 60vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .navbar {
